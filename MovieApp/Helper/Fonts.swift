@@ -2,7 +2,7 @@
 //  Fonts.swift
 //  MovieApp
 //
-//  Created by abidq on 14/03/23.
+//  Created by abidq on 17/03/23.
 //
 
 import UIKit
